@@ -1,5 +1,5 @@
 {
-  "name": "create_vercel_nodejs_config",
+  "name": "@remba/create-vercel-json-nodejs",
   "version": "1.0.0",
   "description": "To create vercel.json for express.js",
   "main": "index.js",
