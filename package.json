@@ -1,7 +1,7 @@
 {
   "name": "create_vercel_nodejs_config",
   "version": "1.0.0",
-  "description": "",
+  "description": "To create vercel.json for express.js",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +10,6 @@
     "build": "npm install"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rem Apple",
   "license": "ISC"
 }
