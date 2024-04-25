@@ -1,0 +1,15 @@
+{
+  "name": "create_vercel_nodejs_config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "dev": "node --watch --env-file=.env index vercel-config --node --main server.js",
+    "build": "npm install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
